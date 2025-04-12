@@ -78,6 +78,17 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AkashChatterjee2000">
+                    <br />
+                    <img src="https://avatars.githubusercontent.com/u/112191614?v=4" width="100px;"
+                        alt="Akash Chatterjee" />
+                    <br />
+                    <sub>
+                        <b>Akash Chatterjee</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/KRI5HNA2135">
                     <img src="https://avatars.githubusercontent.com/u/139316875?v=4" width="100px;"
                         alt="Krushna Raut" />
